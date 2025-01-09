@@ -1,10 +1,10 @@
-Python Keylogger Project
+**Python Keylogger Project**
 
-Objective
+*Objective*
 
 The purpose of this project was to develop a Python-based keylogger to understand how keyboard input can be captured and logged. This project provided hands-on experience with event-driven programming and file handling in Python while emphasizing the importance of ethical considerations and security awareness in software development.
 
-Skills Learned
+*Skills Learned*
 
 -Implementing event listeners using Python libraries.
 
@@ -14,13 +14,13 @@ Skills Learned
 
 -Understanding how data flows within a basic network.
 
-Tools Used
+*Tools Used*
 
 Visual Studio Code: Used as the coding platform.
 Python: Used as the primary programming language.
 pynput Library: Captured and processed keyboard input.
 
-Steps
+*Steps*
 
 1. Imported the pynput library to set up keyboard event listeners.
 2. Created a function (keyPressed) to capture and log key presses.
